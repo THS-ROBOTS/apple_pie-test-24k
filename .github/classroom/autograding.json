@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "1",
+      "output": "40",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 10
+    },
+    {
+      "name": "Test 2",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "0",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 3",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "10",
+      "output": "400",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 4",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "3",
+      "output": "120",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 5",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "15",
+      "output": "600",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 6",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "11",
+      "output": "440",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 7",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "6",
+      "output": "240",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 8",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "4",
+      "output": "160",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 9",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "14",
+      "output": "560",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 10",
+      "setup": "",
+      "run": "python3 applepie.py",
+      "input": "5",
+      "output": "200",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
